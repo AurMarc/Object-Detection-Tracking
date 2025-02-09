@@ -1,5 +1,4 @@
-# Traffic Analysis System
-
+#  Object-Detection-Tracking
 A comprehensive video analysis system for monitoring and analyzing traffic flow using YOLO object detection and DeepSORT tracking.
 
 ## Features
@@ -16,8 +15,8 @@ A comprehensive video analysis system for monitoring and analyzing traffic flow 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd traffic-analysis-system
+git clone https://github.com/AurMarc/Object-Detection-Tracking
+cd  Object-Detection-Tracking
 ```
 
 2. Download and setup DeepSORT files:
